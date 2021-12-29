@@ -1,0 +1,180 @@
+<html lang="vi" xmlns="http://www.w3.org/1999/xhtml" xmlns:b="http://www.google.com/2005/gml/b" xmlns:data="http://www.google.com/2005/gml/data" xmlns:expr="http://www.google.com/2005/gml/expr" class="touch no-touch"><head>
+<link href="https://www.blogger.com/static/v1/widgets/1324390690-widget_css_bundle.css" rel="stylesheet" type="text/css">
+<meta charset="UTF-8">
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<title>Ngọc Bình- Trang Thông Tin Cá Nhân</title>
+<meta content="IE=edge" http-equiv="X-UA-Compatible">
+<meta content="width=device-width, initial-scale=1, shrink-to-fit=no" name="viewport">
+<!-- Favicons -->
+<link href="https://cdn.trinhngocminh.com/img/favicon.ico" rel="shortcut icon" type="image/x-icon">
+<!-- Styles -->
+<link href="https://cdn.trinhngocminh.com/cc.css" rel="stylesheet">
+<link href="https://cdn.trinhngocminh.com/assets/styles/style.css" rel="stylesheet" type="text/css">
+<link href="https://cdn.trinhngocminh.com/assets/styles/style-dark.css" rel="stylesheet" type="text/css">
+<link href="https://cdn.trinhngocminh.com/assets/demo/style-demo.css" rel="stylesheet" type="text/css">
+<link href="https://cdn.jsdelivr.net/gh/ngocminhvn/all/snow.css" rel="stylesheet">
+<link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.0/dist/sweetalert2.min.css" rel="stylesheet">
+<style id="page-skin-1" type="text/css"><!--
+i.fas.fa-check {
+background: #1266f1;
+color: #fff;
+padding: 4px;
+border-radius: 100%;
+font-size: 8px;
+vertical-align: middle;
+}
+
+--></style>
+<meta name="google-adsense-platform-account" content="ca-host-pub-1556223355139109">
+<meta name="google-adsense-platform-domain" content="blogspot.com">
+
+<style type="text/css">.medium-zoom-overlay{position:fixed;top:0;right:0;bottom:0;left:0;opacity:0;transition:opacity .3s;will-change:opacity}.medium-zoom--opened .medium-zoom-overlay{cursor:pointer;cursor:zoom-out;opacity:1}.medium-zoom-image{cursor:pointer;cursor:zoom-in;transition:transform .3s cubic-bezier(.2,0,.2,1)}.medium-zoom-image--hidden{visibility:hidden}.medium-zoom-image--opened{position:relative;cursor:pointer;cursor:zoom-out;will-change:transform}</style><style type="text/css">.medium-zoom-overlay{position:fixed;top:0;right:0;bottom:0;left:0;opacity:0;transition:opacity .3s;will-change:opacity}.medium-zoom--opened .medium-zoom-overlay{cursor:pointer;cursor:zoom-out;opacity:1}.medium-zoom-image{cursor:pointer;cursor:zoom-in;transition:transform .3s cubic-bezier(.2,0,.2,1)}.medium-zoom-image--hidden{visibility:hidden}.medium-zoom-image--opened{position:relative;cursor:pointer;cursor:zoom-out;will-change:transform}</style></head>
+<body style="opacity: 1;">
+<div class="no-items section" id="Auth: "vo tac thin></div>
+<!-- Preloader -->
+<!-- <div class='preloader'> <div class='preloader__wrap'> <div class='circle-pulse'> <div class='circle-pulse__1'/> <div class='circle-pulse__2'/> </div> <div class='preloader__progress'><span/></div> </div> </div> -->
+<main class="main">
+<!-- Header Image -->
+<div class="header-image">
+<div class="js-parallax" style="background-image: none; z-index: 0;" data-jarallax-original-styles="background-image: url(https://lh3.googleusercontent.com/64a7-LDU2D0faYVhChoK-WqoyiJuv8RP5jlcqskTDM4ZBR2Hq2mRzcpzL8f_VHvDYsq_uOtKGcSp6pUw9s_iURKHgZp2kOumlOt3WBtyqdRx3K0BRfWultz5G_k8N9deUva17_s2q37N9oSvzjk7CdW4uK_Pogo6TXYlPEIXB0E1lt8cjtdydxY_NjbfDOe_Jhl_0aFPtdBS0SBPnJI1BbACu_R76LEmn6bdpi1mhumwzvSAixgo3uDehZoHMPdGiVrtTST6hGP5PVLv3SppfTYUNhr4zJDjJ34QGyHyYGmD_uSeoNc7lsBGFvIRT-qtSZR3MF8lmc9rzJ6VNwOdiExuqWEIT1RfG_HXw2q3gloM_Frb08uVs7KATRWKptEUJ1M80oZtk7QCJZjTBVNnsq4o9P2J2Ea2-KdaYqbiV6ReOM4UNH6jK4SVK_aOHH7nMQ724GgFTdOwnok17tjQid_gOlm11ALr2kENV0vhSywNp_6s-WgbmIXIh4dryK5ubtCNIjOAbk0qa7q1JcR7v4nddMVz5Oc41re-DWC5EPs8oGwActAfHgJ2593W0DgYrxtmJb1CFfsMAS0BaWMRW4o3iPNWRMB-fK3u-dDpeGcy8ddH_pQzwWKcqOaxx-IWOK4FwIWlXB4Eh4Vr8MU5XtYlIWyo30Fp6cJdjAwudeyScwOSdiug1BzRpSghHt4dyHr6RMraOAUShzeFXEA5K3MS=w640-h400-no?authuser=0);"><div id="jarallax-container-0" style="position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; overflow: hidden; pointer-events: none; z-index: -100;"><div style="background-position: 50% 50%; background-size: cover; background-repeat: no-repeat; background-image: url(&quot;https://lh3.googleusercontent.com/64a7-LDU2D0faYVhChoK-WqoyiJuv8RP5jlcqskTDM4ZBR2Hq2mRzcpzL8f_VHvDYsq_uOtKGcSp6pUw9s_iURKHgZp2kOumlOt3WBtyqdRx3K0BRfWultz5G_k8N9deUva17_s2q37N9oSvzjk7CdW4uK_Pogo6TXYlPEIXB0E1lt8cjtdydxY_NjbfDOe_Jhl_0aFPtdBS0SBPnJI1BbACu_R76LEmn6bdpi1mhumwzvSAixgo3uDehZoHMPdGiVrtTST6hGP5PVLv3SppfTYUNhr4zJDjJ34QGyHyYGmD_uSeoNc7lsBGFvIRT-qtSZR3MF8lmc9rzJ6VNwOdiExuqWEIT1RfG_HXw2q3gloM_Frb08uVs7KATRWKptEUJ1M80oZtk7QCJZjTBVNnsq4o9P2J2Ea2-KdaYqbiV6ReOM4UNH6jK4SVK_aOHH7nMQ724GgFTdOwnok17tjQid_gOlm11ALr2kENV0vhSywNp_6s-WgbmIXIh4dryK5ubtCNIjOAbk0qa7q1JcR7v4nddMVz5Oc41re-DWC5EPs8oGwActAfHgJ2593W0DgYrxtmJb1CFfsMAS0BaWMRW4o3iPNWRMB-fK3u-dDpeGcy8ddH_pQzwWKcqOaxx-IWOK4FwIWlXB4Eh4Vr8MU5XtYlIWyo30Fp6cJdjAwudeyScwOSdiug1BzRpSghHt4dyHr6RMraOAUShzeFXEA5K3MS=w640-h400-no?authuser=0&quot;); position: absolute; top: 0px; left: 0px; width: 641px; height: 470px; overflow: hidden; pointer-events: none; margin-top: 143px; transform: translate3d(0px, -143px, 0px);"></div></div></div>
+</div>
+<div class="container gutter-top ">
+<!-- Header -->
+<header class="header box">
+<div class="header__left">
+<div class="header__photo">
+<img alt="thindzvcl" class="header__photo-img" src="https://scontent.fhan5-6.fna.fbcdn.net/v/t1.15752-9/257569397_642869033764477_7514824742671367947_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=ae9488&_nc_ohc=yKvPCB8pGbAAX_qgymK&_nc_ht=scontent.fhan5-6.fna&oh=03_AVL89bSnnsxFzxxUcrxMCNVOurZDJooUzndXaBi31zgf3A&oe=61F19B87">
+</div>
+<div class="header__base-info">
+<h2 class="title titl--h1"><b>Ngọc Bình<img alt="Đã Xác Minh" src="https://cdn.trinhngocminh.com/img/tich-xanh.png" style="height: 24px;"></b></h2>
+<div class="skill-item" style="color: #EF9D64;"><b>Developer - Blogger</b></div>
+<ul class="header__social">
+<li><a href="https://www.facebook.com/ngocbinh269" target="_blank"><span class="nav-link-icon mr-1">
+<i class="icon-img"><img height="20" src="https://cdn.trinhngocminh.com/img/fb.svg"></i>
+</span></a></li>
+<li><a href="https://zalo.me/0377647364/" target="_blank"><span class="nav-link-icon mr-1">
+<i class="icon-img"><img height="20" src="https://cdn.trinhngocminh.com/img/zalo.png"></i>
+</span></a></li>
+<li><a href="https://t.me/" target="blank"><span class="nav-link-icon mr-1">
+<i class="icon-img"><img height="20" src="https://cdn.trinhngocminh.com/img/tele.svg"></i>
+</span></a></li>
+</ul>
+</div>
+</div>
+<div class="header__right">
+<ul class="header__contact">
+<li><span class="overhead"><i class="icon-img"><img height="25" src="https://cdn.trinhngocminh.com/img/mail.png"></i></span>
+<a href="https://www.facebook.com/ngocbinh269" target="_blank">
+<font color="white"><b>Bincute2609@gmail.com
+
+</b></font>
+</a>
+</li>
+<li><span class="overhead"><i class="icon-img"><img height="25" src="https://cdn.trinhngocminh.com/img/phone.png"></i></span>
+<a href="tel:0377647364" target="_blank">
+<font color="white"><b>0377647364</b></font>
+</a>
+</li>
+</ul>
+<ul class="header__contact">
+<li><span class="overhead"><i class="icon-img"><img height="25" src="https://cdn.trinhngocminh.com/img/globe.svg"></i></span><a href="tranhscam.net" target="_blank"><font color="white"><b>tranhscam.net</b></font></a></li>
+<li><span class="overhead"><i class="icon-img"><img height="25" src="https://cdn.trinhngocminh.com/img/puplic.png"></i></span>
+<a href="https://vi.wikipedia.org/wiki/Sao_H%E1%BB%8Fa" target="_blank">
+<font color="white"><b>Sao Hỏa</b></font>
+</a>
+</li>
+</ul>
+</div>
+</header>
+<div class="row sticky-parent">
+<!-- Sidebar nav -->
+<!-- Content -->
+<div class="col-12">
+<div class="box box-content">
+<!-- What -->
+<div class="mt-1">
+<h3 class="title title--h2 first-title title__separate">THÔNG TIN THANH TOÁN</h3>
+<div class="row">
+<!-- Case Item -->
+<div class="col-12 col-lg-6">
+<div class="case-item">
+<img height="55px" src="https://cdn.trinhngocminh.com/img/tsr.png">
+<div>
+<h4 class="title title--h4">Thẻ Siêu Rẻ</h4>
+<p><b>Ngọc Bình</b><br><b>0377647364</b></p>
+<button class="btn btn-primary" onclick="copy('0377647364')" style="height:30px;width:100px" type="button">COPY</button>
+</div>
+</div>
+</div>
+<!-- Case Item -->
+<div class="col-12 col-lg-6">
+<div class="case-item">
+<img height="55px" src="https://cdn.trinhngocminh.com/img/mbbank.png">
+<div>
+<h4 class="title title--h4">MB Bank</h4>
+<p><b>Ngọc Bình</b><br><b>0377647364</b></p>
+<button class="btn btn-primary" onclick="copy('0377647364')" style="height:30px;width:100px" type="button">COPY</button>
+</div>
+</div>
+</div>
+<!-- Case Item -->
+<div class="col-12 col-lg-6">
+<div class="case-item">
+<img height="55px" src="https://cdn.trinhngocminh.com/img/momo.png">
+<div>
+<h4 class="title title--h4">Ví Momo</h4>
+<p><b>Ngọc Bình</b><br><b>0377647364</b></p>
+<button class="btn btn-primary" onclick="copy('0377647364')" style="height:30px;width:100px" type="button">COPY</button>
+</div>
+</div>
+</div>
+<div class="col-12 col-lg-6">
+<div class="case-item">
+<img height="55px" src="https://cdn.trinhngocminh.com/img/pay.png">
+<div>
+<h4 class="title title--h4">Zalo Pay</h4>
+<p><b>Ngọc Bình</b><br><b>0377647364</b></p>
+<button class="btn btn-primary" onclick="copy('0377647364')" style="height:30px;width:100px" type="button">COPY</button>
+</div>
+</div>
+</div>
+<!-- Case Item -->
+</div>
+<center>
+<a href="https://iamthininfo.github.io/" style="color:#fff;">Ghé Thăm Website</a>
+</center>
+</div>
+<!-- Clients -->
+</div>
+<!-- Footer -->
+<footer class="footer">© 2021 Vận Hành Bởi VoTacThin </footer>
+</div>
+</div>
+</div>
+</main>
+<!-- SVG masks -->
+<svg class="svg-defs">
+<clipPath id="avatar-box">
+<path d="M1.85379 38.4859C2.9221 18.6653 18.6653 2.92275 38.4858 1.85453 56.0986.905299 77.2792 0 94 0c16.721 0 37.901.905299 55.514 1.85453 19.821 1.06822 35.564 16.81077 36.632 36.63137C187.095 56.0922 188 77.267 188 94c0 16.733-.905 37.908-1.854 55.514-1.068 19.821-16.811 35.563-36.632 36.631C131.901 187.095 110.721 188 94 188c-16.7208 0-37.9014-.905-55.5142-1.855-19.8205-1.068-35.5637-16.81-36.63201-36.631C.904831 131.908 0 110.733 0 94c0-16.733.904831-37.9078 1.85379-55.5141z"></path>
+</clipPath>
+<clipPath id="avatar-hexagon">
+<path d="M0 27.2891c0-4.6662 2.4889-8.976 6.52491-11.2986L31.308 1.72845c3.98-2.290382 8.8697-2.305446 12.8637-.03963l25.234 14.31558C73.4807 18.3162 76 22.6478 76 27.3426V56.684c0 4.6805-2.5041 9.0013-6.5597 11.3186L44.4317 82.2915c-3.9869 2.278-8.8765 2.278-12.8634 0L6.55974 68.0026C2.50414 65.6853 0 61.3645 0 56.684V27.2891z"></path>
+</clipPath>
+</svg>
+<div class="back-to-top" style="display: none;"></div>
+<!-- JavaScripts -->
+<script src="https://cdn.jsdelivr.net/gh/ngocminhvn/all@main/copy.js"></script>
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://cdn.trinhngocminh.com/assets/js/plugins.min.js"></script><div style="position: fixed; top: -9999px; left: 0px; height: 100vh; width: 0px;"></div>
+<script src="https://cdn.trinhngocminh.com/assets/js/common.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.3.0/dist/sweetalert2.min.js"></script>
+<script src="https://cdn.trinhngocminh.com/assets/demo/plugins-demo.js"></script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/1434883710-widgets.js"></script>
+<script type="text/javascript">
+window['__wavt'] = 'AOuZoY46PJU1qib_tBeVMWwJ3sHAuaRjLQ:1640681205724';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d7367723178869518064','//www.xn--trnhngocminh-rk6f.vn/?m\x3d0','7367723178869518064');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '7367723178869518064', 'title': 'Tr\u1ecbnh Ng\u1ecdc Minh Bio', 'url': 'https://www.xn--trnhngocminh-rk6f.vn/?m\x3d0', 'canonicalUrl': 'https://www.xn--trnhngocminh-rk6f.vn/', 'homepageUrl': 'https://www.xn--trnhngocminh-rk6f.vn/?m\x3d0', 'searchUrl': 'https://www.xn--trnhngocminh-rk6f.vn/search', 'canonicalHomepageUrl': 'https://www.xn--trnhngocminh-rk6f.vn/', 'blogspotFaviconUrl': 'https://www.xn--trnhngocminh-rk6f.vn/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': true, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'vi', 'localeUnderscoreDelimited': 'vi', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Tr\u1ecbnh Ng\u1ecdc Minh Bio - Atom\x22 href\x3d\x22https://www.xn--trnhngocminh-rk6f.vn/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Tr\u1ecbnh Ng\u1ecdc Minh Bio - RSS\x22 href\x3d\x22https://www.xn--trnhngocminh-rk6f.vn/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Tr\u1ecbnh Ng\u1ecdc Minh Bio - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/7367723178869518064/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/17831411910586679845\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/20752fd4df382411', 'plusOneApiSrc': 'https://apis.google.com/js/plusone.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Nh\u1eadn \u0111\u01b0\u1eddng li\xean k\u1ebft', 'key': 'link', 'shareMessage': 'Nh\u1eadn \u0111\u01b0\u1eddng li\xean k\u1ebft', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Chia s\u1ebb v\u1edbi Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Chia s\u1ebb v\u1edbi Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Chia s\u1ebb v\u1edbi Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27vi\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': true, 'jumpLinkMessage': 'Read more \xbb', 'pageType': 'index', 'pageName': '', 'pageTitle': 'Tr\u1ecbnh Ng\u1ecdc Minh Bio'}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Ch\u1ec9nh s\u1eeda', 'linkCopiedToClipboard': '\u0110\xe3 sao ch\xe9p \u0111\u01b0\u1eddng li\xean k\u1ebft v\xe0o b\u1ea3ng nh\u1edb t\u1ea1m!', 'ok': 'Ok', 'postLink': 'Li\xean k\u1ebft b\xe0i \u0111\u0103ng'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'T\xf9y ch\u1ec9nh', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'Tr\u1ecbnh Ng\u1ecdc Minh Bio', 'description': '', 'url': 'https://www.xn--trnhngocminh-rk6f.vn/?m\x3d0', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}]);
+</script>
+
+<div style="position: absolute; top: 0px;"></div></body><div style="position: absolute; top: 0px;"></div></html>
